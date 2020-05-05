@@ -45,6 +45,12 @@ body{
       border-radius: 25px;
       border:2px solid black;
     }
+     .centered{
+        position:absolute;
+        top: 40%;
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
     /* End Home Page */
 }
 
