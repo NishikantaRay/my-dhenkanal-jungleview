@@ -7,7 +7,7 @@ body{
         background:linear-gradient(rgb(9, 20, 5),rgb(9, 161, 9),rgb(3, 41, 3));
         border-radius:25px;
         /* border:2px solid black; */
-        /* display: inline-block; */
+        display: inline-block;
        
 
     }
@@ -44,7 +44,7 @@ body{
       background:linear-gradient(rgb(12, 36, 2),rgb(50, 218, 58),rgb(3, 46, 3));
       border-radius: 25px;
       border:2px solid black;
-      display: block;
+      display: inline-block;
     }
     #my.container{
         background:linear-gradient(rgb(9, 20, 5),rgb(9, 161, 9),rgb(3, 41, 3));
@@ -65,7 +65,7 @@ body{
       background:linear-gradient(rgb(9, 27, 2),rgb(25, 129, 11),rgb(1, 20, 1));
       border-radius: 25px;
       border:2px solid black;
-      display: block;
+      display: inline-block;
     
     }
     .centered{
@@ -94,6 +94,7 @@ body{
         background:linear-gradient(rgb(7, 22, 1),rgb(4, 139, 4),rgb(1, 32, 1));
         border-radius: 25px;
         border:2px solid black;
+        display:inline-block;
         
     }
     .centered{
